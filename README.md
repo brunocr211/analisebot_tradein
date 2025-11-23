@@ -2,8 +2,6 @@
 
 O **Bot de Análise de Negociação** é um chatbot do Telegram para análises baseadas em dados do mercado de criptomoedas, particularmente da bolsa Binance. Ele fornece indicadores técnicos padrão, sentimento social e atividades de desenvolvedores. Índices de mercado, classificações e métricas estatísticas baseadas em transações on-chain em diferentes redes blockchain também são relatados.
 
-![avatar.png](img/avatar.png)
-
 ## Executar em máquina local
 
 ```
