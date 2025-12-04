@@ -170,4 +170,3 @@ Entrada: $264,3 milhões (-51,1% em relação à semana passada)
 Saída: $364,0 milhões (-45,7% em relação à semana passada)
 Fluxo líquido: -$99,7 milhões
 
-Traduzido com a versão gratuita do tradutor - DeepL.com
